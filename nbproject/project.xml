@@ -4,9 +4,15 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <name>KodCiktisi</name>
 =======
 <<<<<<< HEAD
+            <name>classdeneme</name>
+=======
+            <name>enumdeneme</name>
+>>>>>>> origin/master
+=======
             <name>classdeneme</name>
 =======
             <name>enumdeneme</name>
