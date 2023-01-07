@@ -3,7 +3,25 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>superdeneme</name>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <name>KodCiktisi</name>
+=======
+<<<<<<< HEAD
+            <name>classdeneme</name>
+=======
+            <name>enumdeneme</name>
+>>>>>>> origin/master
+=======
+            <name>classdeneme</name>
+=======
+            <name>enumdeneme</name>
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
